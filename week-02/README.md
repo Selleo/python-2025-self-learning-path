@@ -5,7 +5,7 @@
 1. Pracuj z typami danych: int, float, bool, str, list, dict, tuple, set.
 2. Stosuj operacje arytmetyczne i logiczne, wykorzystaj `f-string` do formatowania.
 3. Używaj pętli (`for`, `while`), instrukcji `if`, `elif`, `else` oraz list comprehensions.
-4. Zbuduj prosty projekt CLI do zarządzania zadaniami lub filtrowania wiadomości.
+4. Zbuduj prosty projekt CLI do zarządzania zadaniami lub filtrowania wiadomości (in-memory).
 
 🎯 **Rezultat**: Skrypt łączący podstawowe elementy składni języka.
 
